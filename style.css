@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+header {
+  background-color: lightblue ;
+  /*Text color*/
+  color: navy;
+  padding: 5px;
+}
+
+section {
+  background-color: lightgray;
+  width: 50%;
+  height 300px;
+}
+img {
+  width:200px;
+}
